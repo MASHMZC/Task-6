@@ -1,1 +1,11 @@
-# Task-6
+Screenshot of the console output immediately after generation of deposit receiver address: https://github.com/MASHMZC/Task-6/blob/13f2f483df26b969abb0b8a5e3a1420756ecbaa8/task-6-deposit-layer-1.png
+
+Desposit Receiver Address: ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqrj7vtmundw242urm3ud8jshq4r2qqfv0842mfvcacnugkw8qxknx6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k58j2ayq66ajtgz4seuqw7kgnvqyp7e68vq9rqgqqqqqqcqjn8v59
+
+Ethereum Address used to generate the deposit recever address: 0x1E4aE901ad764B40ab0cF00Ef591360081f67476
+
+
+Etherscan explorer link after successfull force bridge transaction: https://rinkeby.etherscan.io/tx/0x161d92c1cc1538285dd0e15031cb228d71e171d36ef7bc8c3b83b73ee172f89e
+
+
+Nervos explorer link after successfull force bridge transaction: https://explorer.nervos.org/aggron/transaction/0xc7fd7fcb327e826f57c037bd61031521fd6699e57ba1834612ce40adf7ffabe9
